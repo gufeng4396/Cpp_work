@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Code/c++_work/cmake_s/build",
+  "command": "D:\\c_bag\\mingw64\\bin\\g++.exe    -g   -g -o CMakeFiles\\think.dir\\hello.cpp.obj -c D:\\Code\\c++_work\\cmake_s\\hello.cpp",
+  "file": "D:/Code/c++_work/cmake_s/hello.cpp"
+}
+]

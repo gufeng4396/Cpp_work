@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Code/c++_work/cmake_s/build",
-		"source" : "D:/Code/c++_work/cmake_s"
+		"build" : "D:/Code/Cpp_work/build",
+		"source" : "D:/Code/Cpp_work"
 	},
 	"version" : 
 	{

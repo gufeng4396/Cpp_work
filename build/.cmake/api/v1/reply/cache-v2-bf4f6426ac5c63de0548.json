@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Code/c++_work/cmake_s/build"
+			"value" : "d:/Code/Cpp_work/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Code/c++_work/cmake_s"
+			"value" : "D:/Code/Cpp_work"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1179,7 +1179,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/c++_work/cmake_s/build"
+			"value" : "D:/Code/Cpp_work/build"
 		},
 		{
 			"name" : "CMAKE_S_SOURCE_DIR",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/c++_work/cmake_s"
+			"value" : "D:/Code/Cpp_work"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",

@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\c_bag\c_make\bin\cmake.exe -SD:\Code\c++_work\cmake_s -BD:\Code\c++_work\cmake_s\build
+  command = D:\c_bag\c_make\bin\cmake.exe -SD:\Code\Cpp_work -BD:\Code\Cpp_work\build
   description = Re-running CMake...
   generator = 1
 

@@ -67,7 +67,7 @@ build think.exe: CXX_EXECUTABLE_LINKER__think CMakeFiles/think.dir/hello.cpp.obj
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\Code\c++_work\cmake_s\build && D:\c_bag\c_make\bin\cmake-gui.exe -SD:\Code\c++_work\cmake_s -BD:\Code\c++_work\cmake_s\build"
+  COMMAND = cmd.exe /C "cd /D D:\Code\Cpp_work\build && D:\c_bag\c_make\bin\cmake-gui.exe -SD:\Code\Cpp_work -BD:\Code\Cpp_work\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -79,7 +79,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D D:\Code\c++_work\cmake_s\build && D:\c_bag\c_make\bin\cmake.exe -SD:\Code\c++_work\cmake_s -BD:\Code\c++_work\cmake_s\build"
+  COMMAND = cmd.exe /C "cd /D D:\Code\Cpp_work\build && D:\c_bag\c_make\bin\cmake.exe -SD:\Code\Cpp_work -BD:\Code\Cpp_work\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1

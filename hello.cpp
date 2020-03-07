@@ -8,7 +8,6 @@ int main(void)
     std::cout << "hello";
     sort(b,b+3);
     a = 5;
-    a = 7;
     b[2] = a;
     return 0;
 }

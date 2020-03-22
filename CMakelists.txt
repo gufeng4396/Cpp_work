@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1)
-project (CMAKE_S)
+project (Cpp_work)
 add_definitions("-g")
 #add_definitions("-O3")
 aux_source_directory(. DIR_SRCS)
